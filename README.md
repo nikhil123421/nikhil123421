@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Nikh_1221)
+
 - 🔭 I’m currently working on mastering **Data Structures & Algorithms (DSA)** in **Python**
 - 🌱 I’m currently learning topics like Binary Search, Linked Lists, Trees, Recursion, Sorting, and more
 - 👯 I’m looking to collaborate on beginner-friendly DSA projects and GitHub showcases
