@@ -8,6 +8,6 @@ I'm Nikhil — an incoming first-year Computer Science student passionate about 
 - 🚀 I’m trying to up my skills by learning more things and building consistency  
 - 🤔 I’m looking for help with growing as a programmer and exploring new areas  
 - 💬 Ask me about Python, DSA strategies, or LeetCode prep
-- 📫 How to reach me: https://www.linkedin.com/in/nikhil-patil-657b08307/
+- 📫 How to reach me: https://www.linkedin.com/in/nikhil-patil-657b08307/ & p.nikhil046@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I’ve solved over **150+ LeetCode problems** and committed to consistent practice.
