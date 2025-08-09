@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Nikhil — an incoming first-year Computer Science student passionate about coding and problem solving.
+I'm Nikhil — a first-year Computer Science student passionate about coding and problem solving.
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Nikh_1221)
 
