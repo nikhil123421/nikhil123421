@@ -3,7 +3,7 @@ I'm Nikhil — a first-year Computer Science student passionate about coding and
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Nikh_1221)
 
-- 🔭 I’m currently working on mastering **Data Structures & Algorithms (DSA)** in **Python**
+- 🔭 I’m currently working on mastering **Data Structures & Algorithms (DSA)** in **C++**
 - 🌱 I’m currently learning topics like Binary Search, Linked Lists, Trees, Recursion, Sorting, and more
 - 🚀 I’m trying to up my skills by learning more things and building consistency  
 - 🤔 I’m looking for help with growing as a programmer and exploring new areas  
