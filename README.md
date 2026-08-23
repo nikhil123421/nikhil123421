@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Nikhil — a first-year Computer Science student passionate about coding and problem solving.
+I'm Nikhil, a Second Year Computer Science student passionate about coding and problem solving.
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Nikh_1221)
 
@@ -10,4 +10,4 @@ I'm Nikhil — a first-year Computer Science student passionate about coding and
 - 💬 Ask me about C++, DSA strategies, or LeetCode prep
 - 📫 How to reach me: https://www.linkedin.com/in/nikhil-patil-657b08307/ & p.nikhil046@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I’ve solved over **150+ LeetCode problems** and committed to consistent practice.
+- ⚡ Fun fact: I’ve solved over **500+ LeetCode problems** and committed to consistent practice.
